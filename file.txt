@@ -1,1 +1,5 @@
-hi bruu
+<<<<<<< HEAD
+hi bruss
+=======
+hii bros
+>>>>>>> feature
